@@ -5,7 +5,7 @@ author:
   first_name: Charl Francois
   last_name: du Plesis
   email: charlfrancoisduplessis@gmail.com
-  position: creative consultant
+  position: Creative Consultant
 tags:
   - seo
   - serp
