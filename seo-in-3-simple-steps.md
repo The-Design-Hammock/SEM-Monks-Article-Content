@@ -1,6 +1,6 @@
 ---
 title: SEO in 3 Simple Steps
-description: XXX
+description: Confused about SEO & SEM? Read our guide today and no longer be confused. You can trust us - We're the Search Engine Monks
 author:
   first_name: Charl Francois
   last_name: du Plesis

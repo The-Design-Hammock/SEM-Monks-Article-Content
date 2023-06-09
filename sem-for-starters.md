@@ -1,13 +1,13 @@
 ---
 title: SEM for Starters
-description: XXX
+description: Confused about SEO & SEM? Read our guide today and no longer be confused. You can trust us - We're the Search Engine Monks
 author:
   first_name: Charl Francois
   last_name: du Plesis
   email: charlfrancoisduplessis@gmail.com
   position: Creative Consultant
 tags:
-  - sem
+  - sem 
   - marketing
   - google-ads
 date: 2023-04-07

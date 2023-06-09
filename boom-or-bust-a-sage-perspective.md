@@ -1,6 +1,6 @@
 ---
 title: "Boomer or Bust: A Generational Perspective"
-description: XXX
+description: A sage perspective on different generational groups and the various similarities, differences and business opportunities afforded to each.
 author:
   first_name: Tryan-Lee
   last_name: Cronning
