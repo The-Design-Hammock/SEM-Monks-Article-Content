@@ -1,10 +1,12 @@
 ---
 title: Why Does Website Formatting Matter?
-description: Learn how asthetics can impact visitor metrics and help drive traffic and identify your brand on the internet
+description: Learn how aesthetics can impact visitor metrics and help drive traffic and identify your brand on the internet
 tags:
   - seo
   - serp
   - keywords
+  - formatting 
+  - fonts
 date: 2023/08/03
 last_modified: 2023/08/03
 reading_time: 5 min

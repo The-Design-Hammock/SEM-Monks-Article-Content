@@ -2,7 +2,11 @@
 title: "Innovation and Angst: The next generations ambitions for the future" 
 description: Learn why the next generation could be shaping age of innovation
 tags:
-  - angst
+  - "generational gap"
+  - inspirational 
+  - future
+  - development 
+  - innovation 
 date: 2023/08/17
 last_modified: 2023/08/17
 reading_time: 5 min

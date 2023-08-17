@@ -1,10 +1,11 @@
 ---
-title: What is a SERP?
+title: What is a 'SERP'?
 description: Search Engines are a powerful tool that can provide exiting new tools to engage with viewers
 tags:
   - seo
   - serp
   - keywords
+  - optimization
 date: 2023/08/03
 last_modified: 2023/08/03
 reading_time: 5 min

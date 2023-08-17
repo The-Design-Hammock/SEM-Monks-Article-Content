@@ -3,6 +3,10 @@ title: College or Experience?
 description: Find out why some people attend a college, and why some don't
 tags:
   - angst
+  - business
+  - education
+  - inspiration 
+  - trade
 date: 2023/08/17
 last_modified: 2023/08/17
 reading_time: 5 min
