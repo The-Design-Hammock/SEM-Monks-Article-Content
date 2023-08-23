@@ -1,6 +1,11 @@
 ---
 title: "Digital Nomads: Not as Remote as You Think!"
 description: Decide for yourself if the life of a Digital Nomad is for you.
+author:
+  first_name: Janice Angelique
+  last_name: Bekker
+  email: janicebekker7@gmail.com
+  position: Guest writer
 tags:
   - career
   - travel

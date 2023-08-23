@@ -5,7 +5,7 @@ author:
   first_name: Tryan-Lee
   last_name: Cronning
   email: tryanlee@skulkenterprises.com
-  position: General Manager
+  position: Staff writer
 tags:
   - economics
   - gen x

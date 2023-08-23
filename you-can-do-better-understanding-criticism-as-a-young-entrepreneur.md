@@ -1,6 +1,11 @@
 ---
 title:  You can do better! Understanding criticism as a young entrepreneur
 description: Understanding criticism can strongly influence your ability to self-improve and develop new skill sets.
+author:
+  first_name: Tryan-Lee
+  last_name: Cronning
+  email: tryanlee@skulkenterprises.com
+  position: Staff writer
 tags:
   - "constructive criticism"
   - entrepreneurship 

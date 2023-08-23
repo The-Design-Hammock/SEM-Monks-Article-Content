@@ -1,6 +1,11 @@
 ---
 title: College or Experience?
-description: an insight of the eternal question between choosing to got to college or jump straight into the work force, looking at the pros and cons of each. 
+description: An insight of the eternal question between choosing to got to college or jump straight into the work force, looking at the pros and cons of each.
+author:
+  first_name: Tryan-Lee
+  last_name: Cronning
+  email: tryanlee@skulkenterprises.com
+  position: Staff writer
 tags:
   - angst
   - business

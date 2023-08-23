@@ -1,6 +1,11 @@
 ---
 title: "Innovation and Angst: The next generations ambitions for the future" 
 description: Learn why the next generation could be shaping age of innovation
+author:
+  first_name: Tryan-Lee
+  last_name: Cronning
+  email: tryanlee@skulkenterprises.com
+  position: Staff writer
 tags:
   - "generational gap"
   - inspirational 
