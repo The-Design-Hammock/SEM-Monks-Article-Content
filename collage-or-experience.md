@@ -1,12 +1,15 @@
 ---
 title: College or Experience?
-description: Find out why some people attend a college, and why some don't
+description: an insight of the eternal question between choosing to got to college or jump straight into the work force, looking at the pros and cons of each. 
 tags:
   - angst
   - business
   - education
   - inspiration 
   - trade
+  - entrepreneurship
+  - "trade school"
+  - "coming of age"
 date: 2023/08/17
 last_modified: 2023/08/17
 reading_time: 5 min

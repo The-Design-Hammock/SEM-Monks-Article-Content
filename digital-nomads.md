@@ -2,11 +2,12 @@
 title: "Digital Nomads: Not as Remote as You Think!"
 description: Decide for yourself if the life of a Digital Nomad is for you.
 tags:
-  - "digital nomads"
   - career
   - travel
   - remote work 
   - lifestyle
+  - inspiration 
+  - "digital nomads"
 date: 2023/08/17
 last_modified: 2023/08/17
 reading_time: 5 min

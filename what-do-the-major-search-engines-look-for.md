@@ -1,7 +1,9 @@
 ---
 title: What do the major search engines look for?
-description: Learn why search engines are important and how they help you generate revenue and attract new customers
+description: Learn why search engines are important and how they help you generate revenue and attract new customers and monetization
 tags:
+  - "search engines"
+  - monetization 
   - seo
   - serp
   - keywords

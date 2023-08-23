@@ -2,6 +2,9 @@
 title: How to use SEO to improve your online presence
 description: SEO can help you rank higher on many popular search engines. Perfect your SEO strategy with these tips.
 tags:
+  - "search engine"
+  - optimization 
+  - improvement 
   - seo
   - serp
   - keywords

@@ -2,11 +2,10 @@
 title: "Optimising Security for Better SEO: Safeguarding Your Online Success" 
 description: How to keep your website safe from hackers, and why its as important as SEO.
 tags:
-  - "cyber security" 
-  - 
+  - "cyber security"
+  - optimization
   - seo
   - serp
-  - keywords
 date: 2023/08/03
 last_modified: 2023/08/03
 reading_time: 5 min

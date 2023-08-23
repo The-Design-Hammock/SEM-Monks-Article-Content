@@ -1,7 +1,9 @@
 ---
 title: 5 SEO Fundamentals That Every Entrepreneur Should Know
-description: Learn what to look for when developing a keyword strategy for your site.
+description: Learn about the fundamental principles every online business owner needs to master in order to optimize their online presence.
 tags:
+  - entrepreneurship
+  - "digital business"
   - seo
   - serp
   - keywords

@@ -2,8 +2,9 @@
 title: How to increase organic traffic to your website using SEO
 description: Learn how to manage site content, and how it can be used to attract a more relevant audience.
 tags:
-  - site traffic
-  - optimization
+  - "site traffic"
+  - optimization 
+  - content 
   - seo
   - serp
   - keywords

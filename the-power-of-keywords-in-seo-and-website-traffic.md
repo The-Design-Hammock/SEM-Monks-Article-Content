@@ -2,6 +2,8 @@
 title: The Power of Keywords in SEO and Website Traffic
 description: Keywords can revolutionize your site traffic and help you target your marketing segments.
 tags:
+  - "target market"
+  - "online business"
   - seo
   - serp
   - keywords

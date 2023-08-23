@@ -7,6 +7,10 @@ tags:
   - "digital business" 
   - inspirational 
   - motivational 
+  - criticism
+  - entrepreneurship 
+  - youth 
+  - insight 
 date: 2023/08/17
 last_modified: 2023/08/17
 reading_time: 5 min

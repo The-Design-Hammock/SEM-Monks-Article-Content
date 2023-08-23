@@ -1,7 +1,10 @@
 ---
 title: Why is SEO important?
-description: Improve your sites visibility and audience with SEO
+description: understanding the importance of Search Engine Optimization , and how it can improve your sites visibility ,audience and revenue 
 tags:
+  - insight
+  - improvement 
+  - optimization 
   - seo
   - serp
   - keywords

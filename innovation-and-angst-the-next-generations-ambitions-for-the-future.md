@@ -7,6 +7,10 @@ tags:
   - future
   - development 
   - innovation 
+  - insight
+  - inspiration
+  - "future generations"
+  - angst
 date: 2023/08/17
 last_modified: 2023/08/17
 reading_time: 5 min

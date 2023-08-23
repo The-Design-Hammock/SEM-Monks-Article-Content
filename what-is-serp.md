@@ -2,6 +2,7 @@
 title: What is a 'SERP'?
 description: Search Engines are a powerful tool that can provide exiting new tools to engage with viewers
 tags:
+  - insight
   - seo
   - serp
   - keywords

@@ -3,7 +3,9 @@ title: How to improve your website’s performance
 description: Performance can play a big role in user-experience. Here are some tips to keep in mind when working on site performance.
 tags:
   - performance
-  - website 
+  - "website optimization"
+  - "online business"
+  - performance 
   - seo
   - serp
   - keywords
